@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+D:\IUH-Uni\Yeah_3\Term_II\LapTrinhWWW\Practice\ProjectTrenLop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4181973551.index
+3661927883.index
+1237034923.index

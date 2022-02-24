@@ -1,0 +1,10 @@
+127.0.0.1 - - [14/Feb/2022:06:57:24 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:06:57:25 +0700] "GET /servletdemo/HelloServlet HTTP/1.1" 200 110
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:06:57:27 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [14/Feb/2022:07:15:32 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:07:15:33 +0700] "GET /servletdemo/HelloServlet HTTP/1.1" 200 110
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:07:16:14 +0700] "GET /servletdemo/WEB-INF/classes/servletdemo/studen-form.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:07:16:32 +0700] "GET /servletdemo/WEB-INF/classes/servletdemo/studen-form.html HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:07:17:49 +0700] "GET /servletdemo/student-form.html HTTP/1.1" 200 352
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:07:17:57 +0700] "GET /servletdemo/StudentServlet?firstName=Thanh&lastName=Van HTTP/1.1" 200 37
+0:0:0:0:0:0:0:1 - - [14/Feb/2022:07:18:17 +0700] "GET /servletdemo/StudentServlet?firstName=Thanh&lastName=Vans HTTP/1.1" 200 38

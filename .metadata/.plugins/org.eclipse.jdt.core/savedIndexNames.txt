@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\IUH-Uni\Yeah_3\Term_II\LapTrinhWWW\Practice\ProjectTrenLop\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3703033865.index
+1237034923.index
+3190870014.index
+2577708674.index
+3661927883.index
