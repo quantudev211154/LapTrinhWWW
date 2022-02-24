@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.sql.DataSource;
 
-@WebServlet("./StudentControllerServlet")
+@WebServlet("/StudentControllerServlet")
 public class StudentControllerServlet extends HttpServlet{
 
 	/**
@@ -84,7 +84,7 @@ public class StudentControllerServlet extends HttpServlet{
 		
 		req.setAttribute("THE_STUDENT", student);
 		
-		RequestDispatcher requestDispatcher = req.getRequestDispatcher("./update-student-form.jsp");
+		RequestDispatcher requestDispatcher = req.getRequestDispatcher("/update-student-form.jsp");
 		requestDispatcher.forward(req, resp);
 	}
 
